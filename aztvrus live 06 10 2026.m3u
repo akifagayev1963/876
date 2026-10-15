@@ -1,0 +1,224 @@
+#EXTM3U
+#EXTINF:-1,AZ TV
+http://149.255.154.194/azertv/index.m3u8
+#EXTINF:-1,AZ TV LIVE
+https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8?
+#EXTINF:-1,AZAD TV HD
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1,AZAD TV LIVE
+https://lives.atv.az/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1,XEZER TV
+http://149.255.154.194/xazartv/index.m3u8
+#EXTINF:-1,XEZER LIVE
+https://xezer.tvstream.az/hls/stream/main_stream.m3u8
+#EXTINF:-1,ARB TV 
+http://149.255.154.194/arb/index.m3u8
+#EXTINF:-1,ARB LIVE
+https://cdn509.canlitv.me/arbtv.m3u8?tkn=iccKZSo3cZPcN2H_LcOWNw&tms=1791285521&hst=www.canlitv.me&ip=131.117.136.11&utkn=b6f96b180d1c4cadb9b0f92fe2665b48&ch=arbtv-canli-hd
+#EXTINF:-1,SPACE TV
+http://149.255.154.194/space/index.m3u8
+#EXTINF:-1,SPACE LIVE
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:-1,ARB24 
+http://149.255.154.194/arb24/index.m3u8
+#EXTINF:-1,ARB24 LIVE
+https://cdn509.ecanlitvizle.live/arb24.m3u8?tkn=N9aYjPCk3fwHneng55PFXA&tms=1791283629&hst=www.ecanlitvizle.live&ip=131.117.136.11&utkn=b6f96b180d1c4cadb9b0f92fe2665b48&ch=arb-24-az-canli
+#EXTINF:-1,AP TV
+http://149.255.154.194/apatv/index.m3u8
+#EXTINF:-1,NAXCIVAN LIVE
+https://str2.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8?token=df000f1bb88e9ca2c786cf888e8951ed426681c4-780964acbec686d1de55af059455ecf2-1762090284-1762079484
+#EXTINF:-1,ICTIMAI TV
+http://149.255.154.194/ictimaitele/index.m3u8
+#EXTINF:-1,ICTIMAI LIVE
+https://live.itv.az/itv.m3u8
+#EXTINF:-1,MEDENIYYET
+http://149.255.154.194/medeniyyettele/index.m3u8
+#EXTINF:-1,MEDENIYYET LIVE
+https://str2.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,REAL 
+https://realtv.tvstream.az/hls/stream2/stream.m3u8
+#EXTINF:-1,REAL LIVE
+https://tuzcu.ecanlitvizle.live/realtv.m3u8?tkn=pklPKkdGJqEaxe00U7RUDQ&tms=1791285351&hst=www.ecanlitvizle.live&ip=131.117.136.11&utkn=b6f96b180d1c4cadb9b0f92fe2665b48&ch=real-tv-az
+#EXTINF:-1,DUNYA LIVE
+https://stream.dunyatv.az/live/dunyatv.m3u8
+#EXTINF:-1,MUZ TV AZ
+https://sivrice.canlitv.vin/muztv.m3u8?tkn=hDTrqOV2TWKAYgh6BPSFAA&tms=1791284810&hst=www.canlitv.vin&ip=131.117.136.11&utkn=b6f96b180d1c4cadb9b0f92fe2665b48&ch=muz-tv-izle
+#EXTINF:-1,TMB TR
+https://meclistv-live.ercdn.net/meclistv/meclistv_360p.m3u8?e=&st=
+#EXTINF:-1,TRT MUZIK
+http://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,POWERTURK
+http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1,DREAM TURK
+http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1,BAKU TV
+http://149.255.154.194/bakutv/index.m3u8
+#EXTINF:-1,CBC TV
+https://stream.castr.com/6994359f4093355bcd876a4c/live_dfbe52f00be311f1952faf8c24dd1b5c/index.fmp4.m3u8
+#EXTINF:-1,CBC SPORT TV
+https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist_360.m3u8
+#EXTINF:-1,CBC SPORT LIVE
+https://hatun.ecanlitvizle.live/cbcsport.m3u8?tkn=uVWg-OD1oATyyh_aYmxVUg&tms=1791283378&hst=www.ecanlitvizle.live&ip=131.117.136.11&utkn=b6f96b180d1c4cadb9b0f92fe2665b48&ch=cbc-sport
+#EXTINF:-1,IDMAN TV
+https://str2.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,IDMAN LIVE
+https://maden.ecanlitvizle.live/idmantv.m3u8?tkn=o9mxJ4pCmvYaotXkz5xOGw&tms=1791283772&hst=www.ecanlitvizle.live&ip=131.117.136.11&utkn=b6f96b180d1c4cadb9b0f92fe2665b48&ch=idmantv-canli-hd-izle
+#EXTINF:-1,SHOW TV HD
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_480p.m3u8
+#EXTINF:-1,SHOW TV LIVE
+https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=87iahgpz87l8&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
+#EXTINF:-1,KANAL D HD
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1,KANAL D LIVE
+https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8?&sid=87iba77hjpti&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
+#EXTINF:-1,ATV HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1,ATV LIVE
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1,STAR HD
+https://yayin2.canlitv.fun/live/startv.stream/chunklist_w256384682.m3u8?hash=b38ad182cbc368df168535b8a3e0bc68
+#EXTINF:-1,STAR LIVE
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7y4903muwygj&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+#EXTINF:-1,NOW HD
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_360p.m3u8
+#EXTINF:-1,NOW LIVE
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1772416316&st=b0tDeJezcv--moHrApZ1jw
+#EXTINF:-1,KANAL 7 360
+https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
+#EXTINF:-1,KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1,KANAL 7 LIVE
+https://kanal7.daioncdn.net/kanal7/kanal7_720p.m3u8?&sid=7y48goa2w00l&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
+#EXTINF:-1,TV8 HD
+http://185.32.44.154/tv8hd/index.m3u8
+#EXTINF:-1,TV8 LIVE
+https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=87id35vegbbs&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1,BEYAZ TV HD 360
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_360p.m3u8
+#EXTINF:-1,BEYAZ TV LIVE
+https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
+#EXTINF:-1,TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT 1 LIVE
+https://hatun.livestream.ad/trt1.m3u8?tkn=hIHcHWnxfcq7TEFKXxakHg&tms=1790425132&hst=de.livestream.ad&ip=131.117.140.56&utkn=61ff48af48232abd93aa0668a5b1782f&ch=trt-1-live
+#EXTINF:-1,TRT 1 HD FUTBOL
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+#EXTINF:-1,TLC
+http://185.32.44.154/tlc/index.m3u8
+#EXTINF:-1,TLC HD
+https://sivrice.ecanlitvizle.live/tlctv.m3u8?tkn=Fu2dQZDEcGSyiaa-7J_w1g&tms=1790425233&hst=www.ecanlitvizle.live&ip=131.117.140.56&utkn=61ff48af48232abd93aa0668a5b1782f&ch=tlc-tv-canli
+#EXTINF:-1,DMAX
+http://185.32.44.154/ntvsport/index.m3u8
+#EXTINF:-1,DMAX HD
+https://tuzcu.ecanlitvizle.live/dmax.m3u8?tkn=tsBIiq_nuT9aRXjIrpZoOw&tms=1790425322&hst=www.ecanlitvizle.live&ip=131.117.140.56&utkn=61ff48af48232abd93aa0668a5b1782f&ch=d-max-canli
+#EXTINF:-1,TRT BELGESEL
+https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
+#EXTINF:-1,TRT BELGESEL HD
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,A2 HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1,SHOWMAX
+https://ciner-live.ercdn.net/showmax/showmax_720p.m3u8?e=1772367337&st=xh0CJDFxKKrcxZ0-2LEICg&tv=1
+#EXTINF:-1,360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1,TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1,TEVE 2 HD
+http://185.32.44.154/tv2/index.m3u8
+#EXTINF:-1,HABER GLOBAL
+https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
+#EXTINF:-1,CNN Turk
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_1_320/playlist.m3u8?&live=true&app=com.cnnturk&st=_OxvANGGKJvzz-SJqcbd-A&e=1791286287
+#EXTINF:-1,NTV
+https://rr2---sn-51xguxaxjvh-btqs.googlevideo.com/videoplayback?
+#EXTINF:-1,HABERTURK
+https://ciner.daioncdn.net/haberturktv/haberturktv_360p.m3u8?sid=8t7koa2uet5l&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+#EXTINF:-1,ATV HABER
+http://185.32.44.154/ahaber/index.m3u8
+#EXTINF:-1,TRT HABER
+http://185.32.44.154/trthaber/index.m3u8
+#EXTINF:-1,TGRT HABER
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1,TVNET HD
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1,TRT COCUK
+http://185.32.44.154/trtcocuk/index.m3u8
+#EXTINF:-1,ARB GUNESH
+http://185.32.44.154/arbgunesh/index.m3u8
+#EXTINF:-1,MAMA RU
+http://185.32.44.154/mama/index.m3u8
+#EXTINF:-1,DETSKIY MIR
+http://185.32.44.154/detskiymir/index.m3u8
+#EXTINF:-1,TRT SPORT
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
+#EXTINF:-1,ASPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
+#EXTINF:-1,ASPOR HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+#EXTINF:-1,SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+#EXTINF:-1,BEIN SPOR
+https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
+#EXTINF:-1,SETANTA SPOR
+https://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8?rand=0.3198532320165396
+#EXTINF:-1,NTV RU
+https://cdn-dvr.ntv.ru/Pes/index.m3u8
+#EXTINF:-1,ROSSIYA 1
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1,ROSSIYA 24
+http://77.232.131.211/Rossiya24/index.m3u8
+#EXTINF:-1,PERVIY
+https://streaming.televizor-24-tochka.ru/live/27.m3u8
+#EXTINF:-1,PYATNICA
+https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
+#EXTINF:-1,РЕН ТВ
+http://stream.mcquack.net/191/index.m3u8
+#EXTINF:-1,TVC
+https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DOMASNIY
+http://stream.mcquack.net/227/index.m3u8
+#EXTINF:-1,TNT
+http://194.152.35.17/tnt/index.m3u8
+#EXTINF:-1,TNT 4
+http://flussonic.linkintel.ru/tnt4/index.m3u8
+#EXTINF:-1,CTC
+http://tshift-1.telecoma.tv/sts/index.m3u8
+#EXTINF:-1,PYATNICA
+https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
+#EXTINF:-1,ТВ3
+http://flussonic.linkintel.ru/tv-3/index.m3u8
+#EXTINF:-1,CE
+http://194.152.35.17/che/index.m3u8
+#EXTINF:-1,ZVEZDA
+http://194.152.35.17/zvezda/index.m3u8
+#EXTINF:-1,KINOPOKAZ
+http://stream.mcquack.net/64/index.m3u8
+#EXTINF:-1,KINO TV
+http://176.118.197.101/KinoTvHD/playlist.m3u8
+#EXTINF:-1,KINOMIX
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1,KINOKOMEDIA
+http://stream.mcquack.net/265/index.m3u8
+#EXTINF:-1,EUROKINO
+http://stream.mcquack.net/385/index.m3u8
+#EXTINF:-1,DOM KINO PREMIUM
+http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1,MUJSKOY KINO
+http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1,TV 1000
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1,INDIYSKOYE KINO
+http://stream.mcquack.net/104/index.m3u8
+#EXTINF:-1,9 KANAL
+http://stream.mcquack.net/20/index.m3u8
+#EXTINF:-1,KINO 1
+http://stream.mcquack.net/30/index.m3u8
+#EXTINF:-1,FILM
+http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1,CINEMA
+http://stream.mcquack.net/62/index.m3u8
+#EXTINF:-1,HCT
+http://stream.mcquack.net/207/index.m3u8
+#EXTINF:-1,RU TV
+http://stream.mcquack.net/109/index.m3u8
+
