@@ -1,44 +1,44 @@
 #EXTM3U
 #EXTINF:-1,AZ TV
-http://149.255.154.194/azertv/index.m3u8
+https://str.yodacdn.net/azertv/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1,AZ TV LIVE
-http://109.205.166.68/server124/aztv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
+http://149.255.154.194/azertv/index.m3u8
 #EXTINF:-1,AZAD TV HD
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1,AZAD TV LIVE
-https://lives.atv.az/ATV_TV_STREAM/streams/atvcanli.m3u8
+https://tv.mobyservice.ru/ATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,XEZER TV
-http://149.255.154.194/xazartv/index.m3u8
+https://operativmm.az/xezer-hls/main_stream.m3u8
 #EXTINF:-1,XEZER LIVE
-https://xezer.tvstream.az/hls/stream/main_stream.m3u8
+http://149.255.154.194/xazartv/index.m3u8
 #EXTINF:-1,ARB TV 
-http://149.255.154.194/arb/index.m3u8
+https://cdn509.canlitv.vin/arbtv.m3u8?tkn=j4pcuzKVRqtT9GcE4eRNXA&tms=1792501756&hst=www.canlitv.vin&ip=131.117.137.173&utkn=373764deb8f068c84bdf1f764d8176f6&ch=arb-tv
 #EXTINF:-1,ARB LIVE
-http://109.205.166.68/server124/arb/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
+http://149.255.154.194/arb/index.m3u8
 #EXTINF:-1,SPACE TV
-http://149.255.154.194/space/index.m3u8
+https://str.yodacdn.net/space/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,SPACE LIVE
 http://str.yodacdn.net/space/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ARB24 
-http://149.255.154.194/arb24/index.m3u8
+https://cdn509.canlitv.vin/arb24.m3u8?tkn=fJ-U2KY7BYhJ_7VF7cE-yg&tms=1792502765&hst=www.canlitv.vin&ip=131.117.137.173&utkn=373764deb8f068c84bdf1f764d8176f6&ch=arb-24-tv
 #EXTINF:-1,ARB24 LIVE
-https://cdn509.ecanlitvizle.live/arb24.m3u8?tkn=N9aYjPCk3fwHneng55PFXA&tms=1791283629&hst=www.ecanlitvizle.live&ip=131.117.136.11&utkn=b6f96b180d1c4cadb9b0f92fe2665b48&ch=arb-24-az-canli
+https://str.yodacdn.net/arb24/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,KANAL S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1,AP TV
 http://149.255.154.194/apatv/index.m3u8
 #EXTINF:-1,NAXCIVAN LIVE
-https://str2.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8?token=df000f1bb88e9ca2c786cf888e8951ed426681c4-780964acbec686d1de55af059455ecf2-1762090284-1762079484
+https://str2.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,ICTIMAI TV
-http://149.255.154.194/ictimaitele/index.m3u8
+https://live.itv.az/itv.m3u8?bandwidth=1700&shift=0
 #EXTINF:-1,ICTIMAI LIVE
 https://live.itv.az/itv.m3u8
 #EXTINF:-1,MEDENIYYET
-http://149.255.154.194/medeniyyettele/index.m3u8
+https://str.yodacdn.net/medeniyyettele/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1,MEDENIYYET LIVE
-https://str2.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8
+https:///medeniyyettele/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,REAL 
-https://realtv.tvstream.az/hls/stream2/stream.m3u8
-#EXTINF:-1,REAL LIVE
-https://tuzcu.ecanlitvizle.live/realtv.m3u8?tkn=pklPKkdGJqEaxe00U7RUDQ&tms=1791285351&hst=www.ecanlitvizle.live&ip=131.117.136.11&utkn=b6f96b180d1c4cadb9b0f92fe2665b48&ch=real-tv-az
+https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,DUNYA LIVE
 https://stream.dunyatv.az/live/dunyatv.m3u8
 #EXTINF:-1,MUZ TV AZ
@@ -54,13 +54,13 @@ http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1,BAKU TV
 http://149.255.154.194/bakutv/index.m3u8
 #EXTINF:-1,CBC TV
-https://stream.castr.com/6994359f4093355bcd876a4c/live_dfbe52f00be311f1952faf8c24dd1b5c/index.fmp4.m3u8
+https://sivrice.canlitv.vin/cbcaztv.m3u8?tkn=6MXZILsoRgLgIqFafiEWxQ&tms=1792504965&hst=www.canlitv.vin&ip=131.117.137.173&utkn=373764deb8f068c84bdf1f764d8176f6&ch=cbc-az-tv
 #EXTINF:-1,CBC SPORT TV
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist_360.m3u8
 #EXTINF:-1,CBC SPORT LIVE
 https://hatun.ecanlitvizle.live/cbcsport.m3u8?tkn=uVWg-OD1oATyyh_aYmxVUg&tms=1791283378&hst=www.ecanlitvizle.live&ip=131.117.136.11&utkn=b6f96b180d1c4cadb9b0f92fe2665b48&ch=cbc-sport
 #EXTINF:-1,IDMAN TV
-https://str2.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
+https://str.yodacdn.net/idmantele/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1,IDMAN LIVE
 http://109.205.166.68/server124/idman_az/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 #EXTINF:-1,SHOW TV HD
