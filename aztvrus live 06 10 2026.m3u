@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,AZ TV
-http://149.255.154.194/azertv/index.m3u8
+https://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:-1,AZ TV LIVE
-https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8?
+http://109.205.166.68/server124/aztv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 #EXTINF:-1,AZAD TV HD
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1,AZAD TV LIVE
@@ -14,11 +14,11 @@ https://xezer.tvstream.az/hls/stream/main_stream.m3u8
 #EXTINF:-1,ARB TV 
 http://149.255.154.194/arb/index.m3u8
 #EXTINF:-1,ARB LIVE
-https://cdn509.canlitv.me/arbtv.m3u8?tkn=iccKZSo3cZPcN2H_LcOWNw&tms=1791285521&hst=www.canlitv.me&ip=131.117.136.11&utkn=b6f96b180d1c4cadb9b0f92fe2665b48&ch=arbtv-canli-hd
+http://109.205.166.68/server124/arb/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 #EXTINF:-1,SPACE TV
 http://149.255.154.194/space/index.m3u8
 #EXTINF:-1,SPACE LIVE
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+http://str.yodacdn.net/space/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ARB24 
 http://149.255.154.194/arb24/index.m3u8
 #EXTINF:-1,ARB24 LIVE
@@ -62,7 +62,7 @@ https://hatun.ecanlitvizle.live/cbcsport.m3u8?tkn=uVWg-OD1oATyyh_aYmxVUg&tms=179
 #EXTINF:-1,IDMAN TV
 https://str2.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,IDMAN LIVE
-https://maden.ecanlitvizle.live/idmantv.m3u8?tkn=o9mxJ4pCmvYaotXkz5xOGw&tms=1791283772&hst=www.ecanlitvizle.live&ip=131.117.136.11&utkn=b6f96b180d1c4cadb9b0f92fe2665b48&ch=idmantv-canli-hd-izle
+http://109.205.166.68/server124/idman_az/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 #EXTINF:-1,SHOW TV HD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_480p.m3u8
 #EXTINF:-1,SHOW TV LIVE
@@ -221,4 +221,3 @@ http://stream.mcquack.net/62/index.m3u8
 http://stream.mcquack.net/207/index.m3u8
 #EXTINF:-1,RU TV
 http://stream.mcquack.net/109/index.m3u8
-
