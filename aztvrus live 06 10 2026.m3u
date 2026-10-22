@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,AZ TV
-http://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
+https://operativmm.az/tvs/az/stream9/index.m3u8
 #EXTINF:-1,AZ TV LIVE
-http://109.205.166.68/server124/aztv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
+http://149.255.154.194/azertv/index.m3u8
 #EXTINF:-1,AZAD TV HD
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1,AZAD TV LIVE
@@ -12,37 +12,37 @@ https://operativmm.az/xezer-hls/main_stream.m3u8
 #EXTINF:-1,XEZER LIVE
 http://149.255.154.194/xazartv/index.m3u8
 #EXTINF:-1,ARB TV 
-https://cdn509.canlitv.vin/arbtv.m3u8?tkn=j4pcuzKVRqtT9GcE4eRNXA&tms=1792501756&hst=www.canlitv.vin&ip=131.117.137.173&utkn=373764deb8f068c84bdf1f764d8176f6&ch=arb-tv
+https://operativmm.az/tvs/arb/stream5/stream.m3u8
 #EXTINF:-1,ARB LIVE
 http://149.255.154.194/arb/index.m3u8
 #EXTINF:-1,SPACE TV
-https://str.yodacdn.net/space/tracks-v1a1/mono.ts.m3u8
+https://operativmm.az/tvs/space/stream8/stream.m3u8
 #EXTINF:-1,SPACE LIVE
 http://str.yodacdn.net/space/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ARB24 
-https://cdn509.canlitv.vin/arb24.m3u8?tkn=fJ-U2KY7BYhJ_7VF7cE-yg&tms=1792502765&hst=www.canlitv.vin&ip=131.117.137.173&utkn=373764deb8f068c84bdf1f764d8176f6&ch=arb-24-tv
+https://operativmm.az/tvs/arb24/stream/stream.m3u8
 #EXTINF:-1,ARB24 LIVE
 https://str.yodacdn.net/arb24/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,KANAL S
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
-#EXTINF:-1,AP TV
-http://149.255.154.194/apatv/index.m3u8
+#EXTINF:-1,APA TV
+http://stream.apa.tv/apastream/video1_stream.m3u8
 #EXTINF:-1,NAXCIVAN LIVE
-https://str2.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8
+https://str2.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoibGl2ZW50diIsImlwIjoiMTMxLjExNy4xNDAuMjE3IiwidWFoIjoiNjdiMWVlN2ZjNGMyYTBlZCIsImlhdCI6MTc5MjY3Nzk4MiwiZXhwIjoxNzkyNjk5NTgyLCJqdGkiOiJmZWNjNDNlYWFhMTlkYTE0In0.11GhlQwDub4H0XLtxwHTCFh7bTMHNx2v45X4aJFhSMQ
 #EXTINF:-1,ICTIMAI TV
 https://live.itv.az/itv.m3u8?bandwidth=1700&shift=0
 #EXTINF:-1,ICTIMAI LIVE
-https://live.itv.az/itv.m3u8
+https://operativmm.az/tvs/ictimai/stream6/stream.m3u8
 #EXTINF:-1,MEDENIYYET
-https://str.yodacdn.net/medeniyyettele/tracks-v3a1/mono.ts.m3u8
+https://maden.canlitv.vin/medeniyettv.m3u8?tkn=jIyNORG16tlxBH73yUPUdA&tms=1792693812&hst=www.canlitv.vin&ip=131.117.140.217&utkn=373764deb8f068c84bdf1f764d8176f6&ch=medeniyet-tv
 #EXTINF:-1,MEDENIYYET LIVE
-https:///medeniyyettele/tracks-v1a1/mono.ts.m3u8
+https://hatun.canlitv.me/medeniyettv.m3u8?tkn=UMSE_2BWY6lCCzfV_wky4w&tms=1792693584&hst=www.canlitv.me&ip=131.117.140.217&utkn=373764deb8f068c84bdf1f764d8176f6&ch=medeniyettv
 #EXTINF:-1,REAL 
-https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8
+https://operativmm.az/tvs/realtv/stream2/stream.m3u8
 #EXTINF:-1,DUNYA LIVE
 https://stream.dunyatv.az/live/dunyatv.m3u8
 #EXTINF:-1,MUZ TV AZ
-https://sivrice.canlitv.vin/muztv.m3u8?tkn=hDTrqOV2TWKAYgh6BPSFAA&tms=1791284810&hst=www.canlitv.vin&ip=131.117.136.11&utkn=b6f96b180d1c4cadb9b0f92fe2665b48&ch=muz-tv-izle
+https://hatun.canlitv.vin/muztv.m3u8?tkn=NTud2iz_0NoIQkM0CBJ30w&tms=1792693968&hst=www.canlitv.vin&ip=131.117.140.217&utkn=373764deb8f068c84bdf1f764d8176f6&ch=muz-tv-izle
 #EXTINF:-1,TMB TR
 https://meclistv-live.ercdn.net/meclistv/meclistv_360p.m3u8?e=&st=
 #EXTINF:-1,TRT MUZIK
@@ -58,9 +58,9 @@ https://sivrice.canlitv.vin/cbcaztv.m3u8?tkn=6MXZILsoRgLgIqFafiEWxQ&tms=17925049
 #EXTINF:-1,CBC SPORT TV
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist_360.m3u8
 #EXTINF:-1,CBC SPORT LIVE
-https://hatun.ecanlitvizle.live/cbcsport.m3u8?tkn=uVWg-OD1oATyyh_aYmxVUg&tms=1791283378&hst=www.ecanlitvizle.live&ip=131.117.136.11&utkn=b6f96b180d1c4cadb9b0f92fe2665b48&ch=cbc-sport
+https://operativmm.az/tvs/cbcsport/stream3/stream.m3u8
 #EXTINF:-1,IDMAN TV
-https://str.yodacdn.net/idmantele/tracks-v3a1/mono.ts.m3u8
+https://operativmm.az/tvs/idman/stream4/stream.m3u8
 #EXTINF:-1,IDMAN LIVE
 http://109.205.166.68/server124/idman_az/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 #EXTINF:-1,SHOW TV HD
@@ -68,15 +68,15 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_480p.m3u8
 #EXTINF:-1,SHOW TV LIVE
 https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=87iahgpz87l8&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTINF:-1,KANAL D HD
-http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+https://demiroren.daioncdn.net/kanald/kanald_360p.m3u8?app=kanald_web&ce=3
 #EXTINF:-1,KANAL D LIVE
 https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8?&sid=87iba77hjpti&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1,ATV HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 #EXTINF:-1,ATV LIVE
-http://89.187.191.41/ATV-HD-TR/video.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1,STAR HD
-https://yayin2.canlitv.fun/live/startv.stream/chunklist_w256384682.m3u8?hash=b38ad182cbc368df168535b8a3e0bc68
+https://dogus.daioncdn.net/startv/startv_360p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
 #EXTINF:-1,STAR LIVE
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7y4903muwygj&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTINF:-1,NOW HD
@@ -84,23 +84,23 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_360p.m3u8
 #EXTINF:-1,NOW LIVE
 https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1772416316&st=b0tDeJezcv--moHrApZ1jw
 #EXTINF:-1,KANAL 7 360
-https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist_360.m3u8
 #EXTINF:-1,KANAL 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+https://kanal7-live.daioncdn.net/kanal7/kanal7_360p-1792680450000_era.ts
 #EXTINF:-1,KANAL 7 LIVE
 https://kanal7.daioncdn.net/kanal7/kanal7_720p.m3u8?&sid=7y48goa2w00l&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 #EXTINF:-1,TV8 HD
-http://185.32.44.154/tv8hd/index.m3u8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1,TV8 LIVE
-https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=87id35vegbbs&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+https://tv8.daioncdn.net/tv8/tv8_360p.m3u8?&sid=87id35vegbbs&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1,BEYAZ TV HD 360
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_360p.m3u8
 #EXTINF:-1,BEYAZ TV LIVE
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
-#EXTINF:-1,TRT 1
+#EXTINF:-1,TRT 1 360
 https://tv-trt1.medya.trt.com.tr/master_360.m3u8
-#EXTINF:-1,TRT 1 LIVE
-https://hatun.livestream.ad/trt1.m3u8?tkn=hIHcHWnxfcq7TEFKXxakHg&tms=1790425132&hst=de.livestream.ad&ip=131.117.140.56&utkn=61ff48af48232abd93aa0668a5b1782f&ch=trt-1-live
+#EXTINF:-1,TRT 1 LIVE 360
+https://hatun.livestream.ad/trt1.m3u8?tkn=glDgkQI80wsi6qxaTE8PSg&tms=1792616795&hst=de.livestream.ad&ip=131.117.140.217&utkn=373764deb8f068c84bdf1f764d8176f6&ch=trt-1-live
 #EXTINF:-1,TRT 1 HD FUTBOL
 http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1,TLC
@@ -128,19 +128,17 @@ http://185.32.44.154/tv2/index.m3u8
 #EXTINF:-1,HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
 #EXTINF:-1,CNN Turk
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_1_320/playlist.m3u8?&live=true&app=com.cnnturk&st=_OxvANGGKJvzz-SJqcbd-A&e=1791286287
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_2_550/playlist.m3u8?&live=true&app=com.cnnturk&st=cLlzUu3Jobt9rejRky5z6Q&e=1792691831
 #EXTINF:-1,NTV
-https://rr2---sn-51xguxaxjvh-btqs.googlevideo.com/videoplayback?
+https://maden.canlitv.me/ntv.m3u8?tkn=sby6l5b0qq_uFljge_jRcw&tms=1792695656&hst=www.canlitv.me&ip=131.117.140.217&utkn=373764deb8f068c84bdf1f764d8176f6&ch=ntvcanlihd-izle
 #EXTINF:-1,HABERTURK
 https://ciner.daioncdn.net/haberturktv/haberturktv_360p.m3u8?sid=8t7koa2uet5l&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
 #EXTINF:-1,ATV HABER
-http://185.32.44.154/ahaber/index.m3u8
+https://hatun.ecanlitvizle.live/ahaber.m3u8?tkn=S-aTpkOQd4Z7zhzQLKOp-g&tms=1792696191&hst=www.ecanlitvizle.live&ip=131.117.140.217&utkn=373764deb8f068c84bdf1f764d8176f6&ch=a-haber-canli-hd-izle
 #EXTINF:-1,TRT HABER
-http://185.32.44.154/trthaber/index.m3u8
+https://tuzcu.ecanlitvizle.live/trthaber.m3u8?tkn=G6q8B8nDRRSyDwP0YRlAnw&tms=1792696279&hst=www.ecanlitvizle.live&ip=131.117.140.217&utkn=373764deb8f068c84bdf1f764d8176f6&ch=trt-haber-canli
 #EXTINF:-1,TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1,TVNET HD
-https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1,TRT COCUK
 http://185.32.44.154/trtcocuk/index.m3u8
 #EXTINF:-1,ARB GUNESH
@@ -150,17 +148,11 @@ http://185.32.44.154/mama/index.m3u8
 #EXTINF:-1,DETSKIY MIR
 http://185.32.44.154/detskiymir/index.m3u8
 #EXTINF:-1,TRT SPORT
-https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
+https://sivrice.canlitv.me/trtspor.m3u8?tkn=UG4za3m9mTFTdWRmwDaXGg&tms=1792696445&hst=www.canlitv.me&ip=131.117.140.217&utkn=373764deb8f068c84bdf1f764d8176f6&ch=trtsporcanli-izle
 #EXTINF:-1,ASPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1,ASPOR HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
-#EXTINF:-1,SPORTS TV
-https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
-#EXTINF:-1,BEIN SPOR
-https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
-#EXTINF:-1,SETANTA SPOR
-https://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8?rand=0.3198532320165396
 #EXTINF:-1,NTV RU
 https://cdn-dvr.ntv.ru/Pes/index.m3u8
 #EXTINF:-1,ROSSIYA 1
@@ -170,7 +162,7 @@ http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1,PERVIY
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1,PYATNICA
-https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
+http://stream.mcquack.net/181/index.m3u8
 #EXTINF:-1,РЕН ТВ
 http://stream.mcquack.net/191/index.m3u8
 #EXTINF:-1,TVC
@@ -178,15 +170,17 @@ https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DOMASNIY
 http://stream.mcquack.net/227/index.m3u8
 #EXTINF:-1,TNT
-http://194.152.35.17/tnt/index.m3u8
+http://stream.mcquack.net/135/index.m3u8
 #EXTINF:-1,TNT 4
-http://flussonic.linkintel.ru/tnt4/index.m3u8
+http://stream.mcquack.net/106/index.m3u8
 #EXTINF:-1,CTC
-http://tshift-1.telecoma.tv/sts/index.m3u8
+http://stream.mcquack.net/138/index.m3u8
 #EXTINF:-1,PYATNICA
 https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
 #EXTINF:-1,ТВ3
-http://flussonic.linkintel.ru/tv-3/index.m3u8
+http://stream.mcquack.net/136/index.m3u8
+#EXTINF:-1,PEREC
+http://stream.mcquack.net/121/index.m3u8
 #EXTINF:-1,CE
 http://194.152.35.17/che/index.m3u8
 #EXTINF:-1,ZVEZDA
