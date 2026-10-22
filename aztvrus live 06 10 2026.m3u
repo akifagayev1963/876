@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,AZ TV
-https://str.yodacdn.net/azertv/tracks-v3a1/mono.ts.m3u8
+https://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:-1,AZ TV LIVE
 http://149.255.154.194/azertv/index.m3u8
 #EXTINF:-1,AZAD TV HD
