@@ -98,7 +98,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_360p.m3u8
 #EXTINF:-1,BEYAZ TV LIVE
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:-1,TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master_360.m3u8
 #EXTINF:-1,TRT 1 LIVE
 https://hatun.livestream.ad/trt1.m3u8?tkn=hIHcHWnxfcq7TEFKXxakHg&tms=1790425132&hst=de.livestream.ad&ip=131.117.140.56&utkn=61ff48af48232abd93aa0668a5b1782f&ch=trt-1-live
 #EXTINF:-1,TRT 1 HD FUTBOL
