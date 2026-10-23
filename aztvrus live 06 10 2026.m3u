@@ -50,7 +50,7 @@ http://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1,DREAM TURK
 http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1,BAKU TV
-https://rtmp.baku.tv/hls/bakutv_480.m3u8
+https://rtmp.baku.tv/hls/bakutv_480p.m3u8
 #EXTINF:-1,CBC TV
 http://stream.cbctv.az/live/cbctv/playlist.m3u8
 #EXTINF:-1,CBC SPORT TV
