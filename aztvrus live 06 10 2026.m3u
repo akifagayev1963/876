@@ -175,8 +175,6 @@ https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/136/index.m3u8
 #EXTINF:-1,PEREC
 http://stream.mcquack.net/121/index.m3u8
-#EXTINF:-1,CE
-http://194.152.35.17/che/index.m3u8
 #EXTINF:-1,ZVEZDA
 http://194.152.35.17/zvezda/index.m3u8
 #EXTINF:-1,NASE NOVOE KINO
