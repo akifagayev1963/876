@@ -52,7 +52,7 @@ http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1,BAKU TV
 https://live.baku.tv/live/playlist.m3u8
 #EXTINF:-1,CBC TV
-https://sivrice.canlitv.vin/cbcaztv.m3u8?tkn=6MXZILsoRgLgIqFafiEWxQ&tms=1792504965&hst=www.canlitv.vin&ip=131.117.137.173&utkn=373764deb8f068c84bdf1f764d8176f6&ch=cbc-az-tv
+http://stream.cbctv.az/live/cbctv/playlist.m3u8
 #EXTINF:-1,CBC SPORT TV
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist_360.m3u8
 #EXTINF:-1,CBC SPORT LIVE
