@@ -39,6 +39,8 @@ https://hatun.canlitv.me/medeniyettv.m3u8?tkn=UMSE_2BWY6lCCzfV_wky4w&tms=1792693
 https://operativmm.az/tvs/realtv/stream2/stream.m3u8
 #EXTINF:-1,DUNYA LIVE
 https://stream.dunyatv.az/live/dunyatv.m3u8
+#EXTINF:-1,GUNAZ TV
+https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1,MUZ TV AZ
 https://hatun.canlitv.vin/muztv.m3u8?tkn=NTud2iz_0NoIQkM0CBJ30w&tms=1792693968&hst=www.canlitv.vin&ip=131.117.140.217&utkn=373764deb8f068c84bdf1f764d8176f6&ch=muz-tv-izle
 #EXTINF:-1,TMB TR
