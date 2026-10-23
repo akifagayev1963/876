@@ -139,14 +139,6 @@ https://hatun.ecanlitvizle.live/ahaber.m3u8?tkn=S-aTpkOQd4Z7zhzQLKOp-g&tms=17926
 https://tuzcu.ecanlitvizle.live/trthaber.m3u8?tkn=G6q8B8nDRRSyDwP0YRlAnw&tms=1792696279&hst=www.ecanlitvizle.live&ip=131.117.140.217&utkn=373764deb8f068c84bdf1f764d8176f6&ch=trt-haber-canli
 #EXTINF:-1,TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
-#EXTINF:-1,TRT COCUK
-http://185.32.44.154/trtcocuk/index.m3u8
-#EXTINF:-1,ARB GUNESH
-http://185.32.44.154/arbgunesh/index.m3u8
-#EXTINF:-1,MAMA RU
-http://185.32.44.154/mama/index.m3u8
-#EXTINF:-1,DETSKIY MIR
-http://185.32.44.154/detskiymir/index.m3u8
 #EXTINF:-1,TRT SPORT
 https://sivrice.canlitv.me/trtspor.m3u8?tkn=UG4za3m9mTFTdWRmwDaXGg&tms=1792696445&hst=www.canlitv.me&ip=131.117.140.217&utkn=373764deb8f068c84bdf1f764d8176f6&ch=trtsporcanli-izle
 #EXTINF:-1,ASPOR
