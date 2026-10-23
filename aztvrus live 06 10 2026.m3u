@@ -191,6 +191,8 @@ http://stream.mcquack.net/64/index.m3u8
 http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1,KINOMIX
 http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1,KINOXIT
+http://stream.mcquack.net/126/index.m3u8
 #EXTINF:-1,KINOKOMEDIA
 http://stream.mcquack.net/265/index.m3u8
 #EXTINF:-1,EUROKINO
@@ -207,8 +209,6 @@ http://stream.mcquack.net/104/index.m3u8
 http://stream.mcquack.net/20/index.m3u8
 #EXTINF:-1,KINO 1
 http://stream.mcquack.net/30/index.m3u8
-#EXTINF:-1,FILM
-http://stream.mcquack.net/126/index.m3u8
 #EXTINF:-1,CINEMA
 http://stream.mcquack.net/62/index.m3u8
 #EXTINF:-1,HCT
