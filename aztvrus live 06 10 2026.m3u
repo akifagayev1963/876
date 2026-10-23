@@ -32,7 +32,7 @@ https://live.itv.az/itv.m3u8?bandwidth=1700&shift=0
 #EXTINF:-1,ICTIMAI LIVE
 https://operativmm.az/tvs/ictimai/stream6/stream.m3u8
 #EXTINF:-1,MEDENIYYET
-http://de.seetv.cc/play/438/AD393DB78B8A6EE/video.m3u8
+http://myvideo.az/channels.aspx?timer=141020200852&channel=medeniyet.m3u8
 #EXTINF:-1,MEDENIYYET LIVE
 https://hatun.canlitv.me/medeniyettv.m3u8?tkn=UMSE_2BWY6lCCzfV_wky4w&tms=1792693584&hst=www.canlitv.me&ip=131.117.140.217&utkn=373764deb8f068c84bdf1f764d8176f6&ch=medeniyettv
 #EXTINF:-1,REAL 
