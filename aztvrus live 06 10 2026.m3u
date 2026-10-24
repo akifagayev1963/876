@@ -43,6 +43,8 @@ https://stream.dunyatv.az/live/dunyatv.m3u8
 https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1,KOMEDI AZ
 https://v2.catcast.tv/content/50370/index.m3u8?token=76b24d3898339fbcd9d0f75cb4c5607b
+#EXTINF:-1,AZERI RETRO FILM
+https://v2.catcast.tv/content/50852/index.m3u8?token=48ec20b378c4465f51861058ea99a52b
 #EXTINF:-1,MUZ TV AZ
 https://hatun.canlitv.vin/muztv.m3u8?tkn=NTud2iz_0NoIQkM0CBJ30w&tms=1792693968&hst=www.canlitv.vin&ip=131.117.140.217&utkn=373764deb8f068c84bdf1f764d8176f6&ch=muz-tv-izle
 #EXTINF:-1,TMB TR
