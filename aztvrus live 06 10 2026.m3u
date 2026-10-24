@@ -125,6 +125,14 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1,TEVE 2 HD
 http://185.32.44.154/tv2/index.m3u8
+#EXTINF:-1,TRT COCUK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT DYANET COCUK
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+EXTINF:-1,MINICA COCUK
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+EXTINF:-1,MINICA GO
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1,HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
 #EXTINF:-1,CNN Turk
