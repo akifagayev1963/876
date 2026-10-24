@@ -133,9 +133,9 @@ http://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT DYANET COCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-EXTINF:-1,MINICA COCUK
+#EXTINF:-1,MINICA COCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-EXTINF:-1,MINICA GO
+#EXTINF:-1,MINICA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1,HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
