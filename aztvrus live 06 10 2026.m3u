@@ -41,14 +41,6 @@ https://operativmm.az/tvs/realtv/stream2/stream.m3u8
 https://stream.dunyatv.az/live/dunyatv.m3u8
 #EXTINF:-1,GUNAZ TV
 https://tv.gunaz.tv/hls/live.m3u8
-#EXTINF:-1,KOMEDI AZ
-https://v2.catcast.tv/content/50370/index.m3u8?token=76b24d3898339fbcd9d0f75cb4c5607b
-#EXTINF:-1,AZERI RETRO FILM
-https://v2.catcast.tv/content/50852/index.m3u8?token=48ec20b378c4465f51861058ea99a52b
-#EXTINF:-1,AZERI YENI MUSIK
-https://v2.catcast.tv/content/48694/index.m3u8?token=e8768237f294381845d56500ab7d1353
-#EXTINF:-1,RIHAT MUSIK
-https://v2.catcast.tv/content/48076/index.m3u8?token=07a03c41067a12f68ca66019baa41834
 #EXTINF:-1,TRT MUZIK
 http://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,POWERTURK
