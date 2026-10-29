@@ -26,7 +26,7 @@ https://str.yodacdn.net/arb24/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,KANAL S
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1,NAXCIVAN TV
-https://canli.naxcivantv.az/media/ntvlive123.m3u8
+https://canli.naxcivantv.az/media/ntvlive123_360p.m3u8
 #EXTINF:-1,ICTIMAI TV
 https://live.itv.az/itv.m3u8?bandwidth=1700&shift=0
 #EXTINF:-1,ICTIMAI LIVE
