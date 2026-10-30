@@ -57,8 +57,10 @@ https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist_360.m3u8
 https://operativmm.az/tvs/cbcsport/stream3/stream.m3u8
 #EXTINF:-1,IDMAN TV
 https://operativmm.az/tvs/idman/stream4/stream.m3u8
-#EXTINF:-1,IDMAN LIVE
+#EXTINF:-1,BEIN SPORT
 http://109.205.166.68/server124/idman_az/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
+#EXTINF:-1,SHOW TV LIVE
+http://esogalaxiusnext.tech:80/play/live.php?mac=00:1B:79:FF:06:D7&stream=260072&extension=ts
 #EXTINF:-1,SHOW TV HD
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_480p.m3u8
 #EXTINF:-1,SHOW TV LIVE
