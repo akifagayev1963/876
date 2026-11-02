@@ -41,6 +41,8 @@ https://operativmm.az/tvs/realtv/stream2/stream.m3u8
 https://stream.dunyatv.az/live/dunyatv.m3u8
 #EXTINF:-1,GUNAZ TV
 https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1,MUZ AYAZ TV
+https://janya-ayaztv.vgcdn.net/ptnr_WebApp/title-Ayaz_tv/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1,TRT MUZIK
 http://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,POWERTURK
