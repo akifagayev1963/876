@@ -248,4 +248,11 @@ https://v2.catcast.tv/content/50892/index.m3u8?token=b126784b11ade4529ef90facf79
 https://v2.catcast.tv/content/50895/index.m3u8?token=4e9ec8de0bd42c6888dd55110c736f1d
 #EXTINF:-1 group-title="Catcast-Film-tv",playercinema-premium-5
 https://v2.catcast.tv/content/50961/index.m3u8?token=31de73e15389f1c27e37f86e25e7e73bcf8e82a331067e567f765d65ed52b21/index.m3u8?s=DJkonOQqp8dVDkghULZx7w&e=2089066052&scheme=https 
+https://v2.catcast.tv/content/47437/index.m3u8?token=b72116cb879f70818951e84a5eb8965c
+#EXTINF:-1 group-title="azeri-muzik",now-music
+https://v2.catcast.tv/content/48694/index.m3u8?token=9630b947e9bf6b95bd0ca3740ca4a66c
+#EXTINF:-1 group-title="azeri-muzik",rihatmusic
+https://v2.catcast.tv/content/48076/index.m3u8?token=fffac7ff1834455c82e493de75cf89f0
+#EXTINF:-1 group-title="azeri-muzik",turkuzplay1
+https://v2.catcast.tv/content/48591/index.m3u8?token=d5d8705c03d1f1833b48a9002cc9c02
 
