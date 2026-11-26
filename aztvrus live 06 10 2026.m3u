@@ -28,9 +28,9 @@ https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1,NAXCIVAN TV
 https://str2.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoibGl2ZW50diIsImlwIjoiMTMxLjExNy4xNDEuOTYiLCJ1YWgiOiIyNjczMDkyODM1Yzc3YThiIiwiaWF0IjoxNzk1Njc5ODk3LCJleHAiOjE3OTU3MDE0OTcsImp0aSI6IjhlOWMwNTExNjgwZTJhMmIifQ.iusAPpJOcFp0Scqg3qwiFP4ynSrfmVfffAEKjS9Trms
 #EXTINF:-1,ICTIMAI TV
-https://live.itv.az/itv.m3u8?bandwidth=1700&shift=0
-#EXTINF:-1,ICTIMAI LIVE
 https://operativmm.az/tvs/ictimai/stream6/stream.m3u8
+#EXTINF:-1,ICTIMAI LIVE
+https://operativmm.az/tvs/ictimai/stream/stream.m3u8
 #EXTINF:-1,MEDENIYYET
 https://rtmp.baku.tv/live/bakutv_720p.m3u8
 #EXTINF:-1,MEDENIYYET LIVE
