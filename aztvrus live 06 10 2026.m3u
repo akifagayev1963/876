@@ -157,28 +157,28 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 https://cdn-dvr.ntv.ru/Pes/index.m3u8
 #EXTINF:-1,ROSSIYA 1
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1,ROSSIYA 11
+http://31.148.5.241/kanal_2/index.m3u8
 #EXTINF:-1,ROSSIYA 24
-https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+http://31.148.5.241/kanal_7/index.m3u8
 #EXTINF:-1,PERVIY
-https://stream8.cinerama.uz/1019/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TVC
-https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
+http://31.148.5.241/kanal_14/index.m3u8
 #EXTINF:-1,PYATNICA
-http://stream.mcquack.net/181/index.m3u8
+http://31.148.5.241/kanal_16/index.m3u8
 #EXTINF:-1,РЕН ТВ
-http://stream.mcquack.net/191/index.m3u8
+http://31.148.5.241/kanal_11/index.m3u8
 #EXTINF:-1,TVC
-https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
+http://31.148.5.241/kanal_10/index.m3u8
 #EXTINF:-1,DOMASNIY
-http://stream.mcquack.net/227/index.m3u8
+http://31.148.5.241/kanal_14/index.m3u8
 #EXTINF:-1,TNT
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
+http://31.148.5.241/kanal_19/index.m3u8
 #EXTINF:-1,CTC
-http://stream.mcquack.net/138/index.m3u8
+http://31.148.5.241/kanal_13/index.m3u8
 #EXTINF:-1,ТВ3
-http://stream.mcquack.net/136/index.m3u8
-#EXTINF:-1,PEREC
-http://stream.mcquack.net/121/index.m3u8
+http://31.148.5.241/kanal_15/index.m3u8
+#EXTINF:-1,DOMASNIY JENSINA
+http://31.148.5.241/kanal_14/index.m3u8
 #EXTINF:-1,ZVEZDA 
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1,ZVEZDA PLUS
@@ -189,6 +189,8 @@ https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KINOSEMYA
 https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+#EXTINF:-1,KINOSERIYA
+https://fs.uplink.kz/kinoseria/mono.m3u8?token=onlinetv
 #EXTINF:-1,KINOSVIDANIYA
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KINOPREMYERA
@@ -198,33 +200,14 @@ http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1,KINOMIX
 https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KINOXIT
-http://stream.mcquack.net/126/index.m3u8
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KINOKOMEDIA
-http://stream.mcquack.net/265/index.m3u8
+https://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1,EUROKINO
 http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1,DOM KINO PREMIUM
-http://stream.mcquack.net/108/index.m3u8
-#EXTINF:-1,MUJSKOY KINO
-http://stream.mcquack.net/107/index.m3u8
-#EXTINF:-1,TV 1000
-http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1,TV1000 Русское Кино
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV1000 ACTION HD
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1,INDIYSKOYE KINO
-http://stream.mcquack.net/104/index.m3u8
-#EXTINF:-1,O TV
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=9cPc1rCGu6M932eqrifRhQ&e=2066519758&scheme=https
-#EXTINF:-1,10 KANAL
-https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=eqlTXebDP9wSWTZgre6BwQ&e=2072611029&scheme=https
-#EXTINF:-1,KINO I JIZN
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=cW9JJyihLmQwx48J8gvJIw&e=2074428338&scheme=https
-#EXTINF:-1,APPLE TV DRAMA
-https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=Ik8QSrqzpj6QWNbHbo_E3g&e=2088610116&scheme=https
-#EXTINF:-1,FOX LIFE
-https://bl.rutube.ru/livestream/f27b804a6f805cb66ff83d4930bd17ff/index.m3u8?s=60h9IAEA6akbYgQLX_iStg&e=2089065868&scheme=http
-#EXTINF:-1,FOX TV
-https://bl.rutube.ru/livestream/b#EXTINF:-1 group-title="Catcast-Film-tv",kino-1
+
 
