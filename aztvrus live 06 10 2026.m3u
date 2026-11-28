@@ -36,11 +36,9 @@ http://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1,BAKU TV
 https://rtmp.baku.tv/hls/bakutv_480p.m3u8
 #EXTINF:-1,CBC TV
-http://stream.cbctv.az/live/cbctv/playlist.m3u8
+https://operativmm.az/tvs/cbcsport/stream3/stream.m3u8
 #EXTINF:-1,CBC SPORT TV
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist_360.m3u8
-#EXTINF:-1,CBC SPORT LIVE
-https://operativmm.az/tvs/cbcsport/stream3/stream.m3u8
 #EXTINF:-1,IDMAN TV
 https://operativmm.az/tvs/idman/stream4/stream.m3u8
 #EXTINF:-1,IDMAN TV LIVE
