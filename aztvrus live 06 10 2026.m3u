@@ -29,6 +29,8 @@ https://tv.gunaz.tv/hls/live.m3u8
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_tv/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1,SHOW PLUS MAHNI
 https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1,KNTV MUSIK
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 #EXTINF:-1,TRT MUZIK
 http://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,POWERTURK
