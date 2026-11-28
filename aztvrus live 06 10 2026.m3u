@@ -1,40 +1,24 @@
 8#EXTM3U
 #EXTINF:-1,AZ TV
 https://operativmm.az/tvs/az/stream9/index.m3u8
-#EXTINF:-1,AZ TV LIVE
-http://149.255.154.194/azertv/index.m3u8
 #EXTINF:-1,AZAD TV HD
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1,AZAD TV LIVE
-https://tv.mobyservice.ru/ATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,XEZER TV
 https://operativmm.az/tvs/xezer/stream/stream.m3u8
-#EXTINF:-1,XEZER LIVE
-http://149.255.154.194/xazartv/index.m3u8
 #EXTINF:-1,ARB TV 
 https://operativmm.az/tvs/arb/stream5/stream.m3u8
-#EXTINF:-1,ARB LIVE
-http://149.255.154.194/arb/index.m3u8
 #EXTINF:-1,SPACE TV
 https://operativmm.az/tvs/space/stream8/stream.m3u8
-#EXTINF:-1,SPACE LIVE
-http://str.yodacdn.net/space/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ARB24 
 https://operativmm.az/tvs/arb24/stream/stream.m3u8
-#EXTINF:-1,ARB24 LIVE
-https://str.yodacdn.net/arb24/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,KANAL S
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1,NAXCIVAN TV
 https://str2.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoibGl2ZW50diIsImlwIjoiMTMxLjExNy4xNDIuMjUwIiwidWFoIjoiZTMwZjlhMjliZDRjZmMyNyIsImlhdCI6MTc5NTc5NTg0MiwiZXhwIjoxNzk1ODE3NDQyLCJqdGkiOiI3MjJhYTU1MDRjNDAzMTdjIn0.CaaNE9ZaypCh_er1AolP1ePPi3WVX7Z_LuT_GtnKX8Q
 #EXTINF:-1,ICTIMAI TV
 https://operativmm.az/tvs/ictimai/stream6/stream.m3u8
-#EXTINF:-1,ICTIMAI LIVE
-https://live.itv.az/itv.m3u8
 #EXTINF:-1,MEDENIYYET
 https://str2.yodacdn.net/medeniyyettele/tracks-v3a1/mono.ts.m3u8?token=eyJ2IjoyLCJzaXRlIjoibWVkZW5peXlldCIsImlwIjoiMTMxLjExNy4xNDIuMjUwIiwidWFoIjoiZTMwZjlhMjliZDRjZmMyNyIsImlhdCI6MTc5NTc5NTcyMSwiZXhwIjoxNzk1ODgyMTIxLCJqdGkiOiJkNDBjZDczNDJiYjg1NDBiIn0.bOAKe6TkF-3j7y86dTwMq1XnHEezJAHGm62miAOpNzg
-#EXTINF:-1,MEDENIYYET LIVE
-http://109.205.166.68/server124/medeniyyet_tv/index3.m3u8?st=AzGSZjk1DpXY1SLc1m4OvA&e=1676581573
 #EXTINF:-1,REAL 
 https://operativmm.az/tvs/realtv/stream2/stream.m3u8
 #EXTINF:-1,DUNYA LIVE
