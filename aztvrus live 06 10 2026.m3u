@@ -162,7 +162,7 @@ http://31.148.5.241/kanal_2/index.m3u8
 #EXTINF:-1,ROSSIYA 24
 http://31.148.5.241/kanal_7/index.m3u8
 #EXTINF:-1,PERVIY
-http://31.148.5.241/kanal_14/index.m3u8
+http://31.148.5.241/kanal_12/index.m3u8
 #EXTINF:-1,PYATNICA
 http://31.148.5.241/kanal_16/index.m3u8
 #EXTINF:-1,РЕН ТВ
@@ -177,8 +177,6 @@ http://31.148.5.241/kanal_19/index.m3u8
 http://31.148.5.241/kanal_13/index.m3u8
 #EXTINF:-1,ТВ3
 http://31.148.5.241/kanal_15/index.m3u8
-#EXTINF:-1,DOMASNIY JENSINA
-http://31.148.5.241/kanal_14/index.m3u8
 #EXTINF:-1,ZVEZDA 
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1,ZVEZDA PLUS
